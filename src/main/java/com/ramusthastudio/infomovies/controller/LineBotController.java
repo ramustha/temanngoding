@@ -109,7 +109,7 @@ public class LineBotController {
         idTarget = payload.events[0].source.groupId;
       } else if (payload.events[0].source.type.equals("room")) {
         idTarget = payload.events[0].source.roomId;
-      } else if (payload.events[0].source.type.equals("users")) {
+      } else if (payload.events[0].source.type.equals("user")) {
         idTarget = payload.events[0].source.userId;
       }
       System.out.println("idTarget "+idTarget);
