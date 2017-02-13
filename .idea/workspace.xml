@@ -67,10 +67,9 @@
       <file leaf-file-name="LineBotController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+            <state relative-caret-position="294">
+              <caret line="250" column="42" lean-forward="false" selection-start-line="250" selection-start-column="24" selection-end-line="250" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#17278#17279#0" expanded="true" />
                 <element signature="e#17308#17309#0" expanded="true" />
               </folding>
@@ -78,62 +77,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JoinEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/JoinEvent.java">
+      <file leaf-file-name="Users.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/Users.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Dao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DaoImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DaoImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="98" column="26" lean-forward="true" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+            <state relative-caret-position="75">
+              <caret line="21" column="93" lean-forward="false" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3670#3671#0" expanded="true" />
-                <element signature="e#3717#3718#0" expanded="true" />
-                <element signature="e#3747#3748#0" expanded="true" />
-                <element signature="e#3814#3815#0" expanded="true" />
-                <marker date="1486974949913" expanded="true" signature="562:620" ph="SELECT id, u... users_table" />
-                <marker date="1486974949913" expanded="true" signature="692:727" ph="SELECT id, u... user_table" />
-                <marker date="1486974949913" expanded="true" signature="777:850" ph="INSERT INTO users_table... " />
-                <marker date="1486974949913" expanded="true" signature="937:1006" ph="SELECT id, e... friend_table" />
-                <marker date="1486974949913" expanded="true" signature="1057:1144" ph="INSERT INTO friend_table... " />
-                <marker date="1486974949913" expanded="true" signature="1224:1260" ph="SELECT id, e... friend_table" />
-                <marker date="1486974949913" expanded="true" signature="1336:1371" ph="SELECT id, e... friend_table" />
+                <marker date="1486977365363" expanded="true" signature="562:614" ph="SELECT id, u... users_table" />
+                <marker date="1486977365363" expanded="true" signature="686:721" ph="SELECT id, u... user_table" />
+                <marker date="1486977365363" expanded="true" signature="771:844" ph="INSERT INTO users_table... " />
+                <marker date="1486977365363" expanded="true" signature="931:988" ph="SELECT id, e... friend_table" />
+                <marker date="1486977365363" expanded="true" signature="931:993" ph="SELECT id, e... event" />
+                <marker date="1486977365363" expanded="true" signature="1044:1124" ph="INSERT INTO friend_table... " />
+                <marker date="1486977365363" expanded="true" signature="1204:1240" ph="SELECT id, e... friend_table" />
+                <marker date="1486977365363" expanded="true" signature="1316:1351" ph="SELECT id, e... friend_table" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            <state relative-caret-position="245">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1085#1086#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-                <element signature="e#1353#1354#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,6 +132,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>User</find>
+      <find>Lihat daftar event</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -555,10 +536,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/Users.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Dao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Config.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java" />
       </list>
     </option>
   </component>
@@ -1252,12 +1233,12 @@
       <workItem from="1486960572554" duration="1395000" />
       <workItem from="1486963859031" duration="205000" />
       <workItem from="1486964214775" duration="628000" />
-      <workItem from="1486964880250" duration="5587000" />
+      <workItem from="1486964880250" duration="7476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11546000" />
+    <option name="totallyTimeSpent" value="13435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="0" />
@@ -1465,32 +1446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/Users.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Dao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/JoinEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linecorp.bot/line-bot-api-client/1.6.0/4102d1741d0b13d749c16c939655cee4883c2f53/line-bot-api-client-1.6.0-sources.jar!/com/linecorp/bot/client/LineMessagingServiceBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-204">
@@ -1515,18 +1470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#17278#17279#0" expanded="true" />
-            <element signature="e#17308#17309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1545,27 +1488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="98" column="26" lean-forward="true" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3670#3671#0" expanded="true" />
-            <element signature="e#3717#3718#0" expanded="true" />
-            <element signature="e#3747#3748#0" expanded="true" />
-            <element signature="e#3814#3815#0" expanded="true" />
-            <marker date="1486974949913" expanded="true" signature="562:620" ph="SELECT id, u... users_table" />
-            <marker date="1486974949913" expanded="true" signature="692:727" ph="SELECT id, u... user_table" />
-            <marker date="1486974949913" expanded="true" signature="777:850" ph="INSERT INTO users_table... " />
-            <marker date="1486974949913" expanded="true" signature="937:1006" ph="SELECT id, e... friend_table" />
-            <marker date="1486974949913" expanded="true" signature="1057:1144" ph="INSERT INTO friend_table... " />
-            <marker date="1486974949913" expanded="true" signature="1224:1260" ph="SELECT id, e... friend_table" />
-            <marker date="1486974949913" expanded="true" signature="1336:1371" ph="SELECT id, e... friend_table" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1574,16 +1496,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Dao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/JoinEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="250" column="42" lean-forward="false" selection-start-line="250" selection-start-column="24" selection-end-line="250" selection-end-column="42" />
+          <folding>
+            <element signature="e#17278#17279#0" expanded="true" />
+            <element signature="e#17308#17309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="93" lean-forward="false" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1486977365363" expanded="true" signature="562:614" ph="SELECT id, u... users_table" />
+            <marker date="1486977365363" expanded="true" signature="686:721" ph="SELECT id, u... user_table" />
+            <marker date="1486977365363" expanded="true" signature="771:844" ph="INSERT INTO users_table... " />
+            <marker date="1486977365363" expanded="true" signature="931:988" ph="SELECT id, e... friend_table" />
+            <marker date="1486977365363" expanded="true" signature="931:993" ph="SELECT id, e... event" />
+            <marker date="1486977365363" expanded="true" signature="1044:1124" ph="INSERT INTO friend_table... " />
+            <marker date="1486977365363" expanded="true" signature="1204:1240" ph="SELECT id, e... friend_table" />
+            <marker date="1486977365363" expanded="true" signature="1316:1351" ph="SELECT id, e... friend_table" />
           </folding>
         </state>
       </provider>

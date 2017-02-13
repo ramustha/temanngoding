@@ -13,13 +13,13 @@ import org.springframework.jdbc.core.ResultSetExtractor;
 
 public class DaoImpl implements Dao {
   //query untuk table Users
-  private final static String SQL_SELECT_ALL = "SELECT id, user_id, line_id, display_name FROM users_table";
+  private final static String SQL_SELECT_ALL = "SELECT id, user_id, line_id, display_name FROM users";
   private final static String SQL_GET_BY_LINE_ID = SQL_SELECT_ALL + " WHERE LOWER(user_id) LIKE LOWER(?);";
   private final static String SQL_REGISTER = "INSERT INTO users_table (user_id, line_id, display_name) VALUES (?, ?, ?);";
 
   //query untuk table event
-  private final static String SQL_SELECT_ALL_EVENT = "SELECT id, event_id, user_id, line_id, display_name FROM friend_table";
-  private final static String SQL_JOIN_EVENT = "INSERT INTO friend_table (event_id, user_id, line_id, display_name) VALUES (?, ?, ?, ?);";
+  private final static String SQL_SELECT_ALL_EVENT = "SELECT id, event_id, user_id, line_id, display_name FROM event";
+  private final static String SQL_JOIN_EVENT = "INSERT INTO event (event_id, user_id, line_id, display_name) VALUES (?, ?, ?, ?);";
   private final static String SQL_GET_BY_EVENT_ID = SQL_SELECT_ALL_EVENT + " WHERE LOWER(event_id) LIKE LOWER(?);";
   private final static String SQL_GET_BY_JOIN = SQL_SELECT_ALL_EVENT + " WHERE event_id = ? AND user_id = ?;";
 
