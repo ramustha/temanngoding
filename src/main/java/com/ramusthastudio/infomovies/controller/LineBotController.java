@@ -304,8 +304,10 @@ public class LineBotController {
 
   //Method untuk push message
   private void pushMessage(String sourceId, String txt) {
+    System.out.println("sourceId ::"+sourceId + " txt " + txt);
     TextMessage textMessage = new TextMessage(txt);
     PushMessage pushMessage = new PushMessage(sourceId, textMessage);
+    System.out.println("pushMessage ::"+pushMessage.toString());
     try {
       Response<BotApiResponse> response = LineMessagingServiceBuilder
           .create(lChannelAccessToken)

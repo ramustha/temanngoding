@@ -55,8 +55,8 @@
       <file leaf-file-name="LineBotController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="251" column="44" lean-forward="false" selection-start-line="251" selection-start-column="44" selection-end-line="251" selection-end-column="44" />
+            <state relative-caret-position="242">
+              <caret line="309" column="62" lean-forward="false" selection-start-line="309" selection-start-column="62" selection-end-line="309" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1247,12 +1247,12 @@
       <workItem from="1486960572554" duration="1395000" />
       <workItem from="1486963859031" duration="205000" />
       <workItem from="1486964214775" duration="628000" />
-      <workItem from="1486964880250" duration="12536000" />
+      <workItem from="1486964880250" duration="12892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18495000" />
+    <option name="totallyTimeSpent" value="18851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="0" />
@@ -1544,10 +1544,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linecorp.bot/line-bot-model/1.6.0/361eee031c7f7a2009ff5bbc3c1d61a80f149940/line-bot-model-1.6.0-sources.jar!/com/linecorp/bot/model/response/BotApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/3564ebef90ac75e61ed65ab9af0f422ce92d4afa/retrofit-2.1.0-sources.jar!/retrofit2/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="251" column="44" lean-forward="false" selection-start-line="251" selection-start-column="44" selection-end-line="251" selection-end-column="44" />
+        <state relative-caret-position="242">
+          <caret line="309" column="62" lean-forward="false" selection-start-line="309" selection-start-column="62" selection-end-line="309" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
