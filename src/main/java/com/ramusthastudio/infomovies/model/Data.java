@@ -122,4 +122,24 @@ public class Data {
     attenders = aAttenders;
     return this;
   }
+
+  @Override public String toString() {
+    return "Data{" +
+        "id=" + id +
+        ", name='" + name + '\'' +
+        ", summary='" + summary + '\'' +
+        ", description='" + description + '\'' +
+        ", address='" + address + '\'' +
+        ", begin_time='" + begin_time + '\'' +
+        ", end_time='" + end_time + '\'' +
+        ", quota=" + quota +
+        ", owner_display_name='" + owner_display_name + '\'' +
+        ", image_path='" + image_path + '\'' +
+        ", header_image='" + header_image + '\'' +
+        ", city_name='" + city_name + '\'' +
+        ", link='" + link + '\'' +
+        ", registrants=" + registrants +
+        ", attenders=" + attenders +
+        '}';
+  }
 }

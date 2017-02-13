@@ -247,7 +247,8 @@ public class LineBotController {
 
     Gson mGson = new Gson();
     Event event = mGson.fromJson(jObjGet, Event.class);
-
+    System.out.println("Event :: "+event.getData().get(0));
+    System.out.println("userTxt :: "+userTxt);
     if (userTxt.equals("lihat daftar event")) {
       pushMessage(targetID, "Aku akan mencarikan event aktif di dicoding! Dengan syarat : Kasih tau dong LINE ID kamu (pake \'id @\' ya). Contoh :");
       pushMessage(targetID, "id @john");
