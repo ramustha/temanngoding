@@ -112,7 +112,7 @@ public class LineBotController {
       } else if (payload.events[0].source.type.equals("users")) {
         idTarget = payload.events[0].source.userId;
       }
-
+      System.out.println("idTarget "+idTarget);
       //Parsing message from users
       if (!payload.events[0].message.type.equals("text")) {
         greetingMessage();
