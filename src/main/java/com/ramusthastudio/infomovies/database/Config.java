@@ -16,9 +16,9 @@ public class Config {
 
   @Bean
   public DataSource getDataSource() {
-    String dbUrl = System.getenv("JDBC_DATABASE_URL");
-    String username = System.getenv("JDBC_DATABASE_USERNAME");
-    String password = System.getenv("JDBC_DATABASE_PASSWORD");
+    String dbUrl = "ec2-107-20-149-243.compute-1.amazonaws.com";
+    String username = "cssdjqoqsgnypz";
+    String password = "a6a65bff40244971d5f8ea439220e4798c0f818ef06f92b6c4083a8160617190";
 
     DriverManagerDataSource ds = new DriverManagerDataSource();
     ds.setDriverClassName("org.postgresql.Driver");
