@@ -247,9 +247,9 @@ public class LineBotController {
 
     Gson mGson = new Gson();
     Event event = mGson.fromJson(jObjGet, Event.class);
-    System.out.println("Event :: "+event.getData().get(0));
-    System.out.println("userTxt :: "+userTxt);
+
     if (userTxt.equals("lihat daftar event")) {
+      System.out.println("lihat daftar event");
       pushMessage(targetID, "Aku akan mencarikan event aktif di dicoding! Dengan syarat : Kasih tau dong LINE ID kamu (pake \'id @\' ya). Contoh :");
       pushMessage(targetID, "id @john");
     } else if (userTxt.contains("summary")) {
@@ -301,6 +301,7 @@ public class LineBotController {
     }
   }
 
+
   //Method untuk push message
   private void pushMessage(String sourceId, String txt) {
     TextMessage textMessage = new TextMessage(txt);
@@ -311,7 +312,7 @@ public class LineBotController {
           .build()
           .pushMessage(pushMessage)
           .execute();
-      System.out.println(response.code() + " " + response.message());
+      System.out.println("pushMessage ::"+response.code() + " " + response.message());
     } catch (IOException e) {
       System.out.println("Exception is raised ");
       e.printStackTrace();
