@@ -255,6 +255,7 @@ public class LineBotController {
     } else if (userTxt.contains("summary")) {
       pushMessage(targetID, event.getData().get(Integer.parseInt(String.valueOf(userTxt.charAt(1))) - 1).getSummary());
     } else {
+      System.out.println("displayName "+displayName);
       pushMessage(targetID, "Hi " + displayName + ", aku belum  mengerti maksud kamu. Silahkan ikuti petunjuk ya :)");
       greetingMessage();
     }
