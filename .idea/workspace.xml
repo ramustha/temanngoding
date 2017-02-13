@@ -52,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LineBotController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LineBotController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="257" column="51" lean-forward="false" selection-start-line="257" selection-start-column="51" selection-end-line="257" selection-end-column="51" />
+            <state relative-caret-position="174">
+              <caret line="239" column="56" lean-forward="true" selection-start-line="239" selection-start-column="56" selection-end-line="239" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,21 +118,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DaoImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DaoImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="109" column="23" lean-forward="true" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1486977365363" expanded="true" signature="562:614" ph="SELECT id, u... users_table" />
-                <marker date="1486977365363" expanded="true" signature="686:721" ph="SELECT id, u... user_table" />
-                <marker date="1486977365363" expanded="true" signature="771:844" ph="INSERT INTO users_table... " />
-                <marker date="1486977365363" expanded="true" signature="931:988" ph="SELECT id, e... friend_table" />
-                <marker date="1486977365363" expanded="true" signature="931:993" ph="SELECT id, e... event" />
-                <marker date="1486977365363" expanded="true" signature="1044:1124" ph="INSERT INTO friend_table... " />
-                <marker date="1486977365363" expanded="true" signature="1204:1240" ph="SELECT id, e... friend_table" />
-                <marker date="1486977365363" expanded="true" signature="1316:1351" ph="SELECT id, e... friend_table" />
+                <marker date="1486985557754" expanded="true" signature="562:614" ph="SELECT id, u... users_table" />
+                <marker date="1486985557754" expanded="true" signature="686:721" ph="SELECT id, u... user_table" />
+                <marker date="1486985557754" expanded="true" signature="771:838" ph="INSERT INTO users_table... " />
+                <marker date="1486985557754" expanded="true" signature="925:982" ph="SELECT id, e... friend_table" />
+                <marker date="1486985557754" expanded="true" signature="925:987" ph="SELECT id, e... event" />
+                <marker date="1486985557754" expanded="true" signature="1038:1118" ph="INSERT INTO friend_table... " />
+                <marker date="1486985557754" expanded="true" signature="1198:1234" ph="SELECT id, e... friend_table" />
+                <marker date="1486985557754" expanded="true" signature="1310:1345" ph="SELECT id, e... friend_table" />
               </folding>
             </state>
           </provider>
@@ -154,9 +154,9 @@
       <find>Lihat daftar event</find>
       <find>http</find>
       <find>mDao</find>
-      <find>event re</find>
       <find>displayName</find>
       <find>greetingMessage</find>
+      <find>event re</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -559,11 +559,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/Users.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Dao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/model/Data.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/Config.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java" />
       </list>
     </option>
   </component>
@@ -653,36 +653,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="infomovies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="infomovies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="infomovies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="infomovies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1257,12 +1227,12 @@
       <workItem from="1486960572554" duration="1395000" />
       <workItem from="1486963859031" duration="205000" />
       <workItem from="1486964214775" duration="628000" />
-      <workItem from="1486964880250" duration="14457000" />
+      <workItem from="1486964880250" duration="14602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20416000" />
+    <option name="totallyTimeSpent" value="20561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="916" extended-state="0" />
@@ -1478,24 +1448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="109" column="23" lean-forward="true" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1486977365363" expanded="true" signature="562:614" ph="SELECT id, u... users_table" />
-            <marker date="1486977365363" expanded="true" signature="686:721" ph="SELECT id, u... user_table" />
-            <marker date="1486977365363" expanded="true" signature="771:844" ph="INSERT INTO users_table... " />
-            <marker date="1486977365363" expanded="true" signature="931:988" ph="SELECT id, e... friend_table" />
-            <marker date="1486977365363" expanded="true" signature="931:993" ph="SELECT id, e... event" />
-            <marker date="1486977365363" expanded="true" signature="1044:1124" ph="INSERT INTO friend_table... " />
-            <marker date="1486977365363" expanded="true" signature="1204:1240" ph="SELECT id, e... friend_table" />
-            <marker date="1486977365363" expanded="true" signature="1316:1351" ph="SELECT id, e... friend_table" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linecorp.bot/line-bot-model/1.6.0/361eee031c7f7a2009ff5bbc3c1d61a80f149940/line-bot-model-1.6.0-sources.jar!/com/linecorp/bot/model/profile/UserProfileResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1572,10 +1524,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/controller/LineBotController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="257" column="51" lean-forward="false" selection-start-line="257" selection-start-column="51" selection-end-line="257" selection-end-column="51" />
+        <state relative-caret-position="174">
+          <caret line="239" column="56" lean-forward="true" selection-start-line="239" selection-start-column="56" selection-end-line="239" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ramusthastudio/infomovies/database/DaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="63" lean-forward="false" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1486985557754" expanded="true" signature="562:614" ph="SELECT id, u... users_table" />
+            <marker date="1486985557754" expanded="true" signature="686:721" ph="SELECT id, u... user_table" />
+            <marker date="1486985557754" expanded="true" signature="771:838" ph="INSERT INTO users_table... " />
+            <marker date="1486985557754" expanded="true" signature="925:982" ph="SELECT id, e... friend_table" />
+            <marker date="1486985557754" expanded="true" signature="925:987" ph="SELECT id, e... event" />
+            <marker date="1486985557754" expanded="true" signature="1038:1118" ph="INSERT INTO friend_table... " />
+            <marker date="1486985557754" expanded="true" signature="1198:1234" ph="SELECT id, e... friend_table" />
+            <marker date="1486985557754" expanded="true" signature="1310:1345" ph="SELECT id, e... friend_table" />
           </folding>
         </state>
       </provider>
