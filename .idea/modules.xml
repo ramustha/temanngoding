@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infomovies.iml" filepath="$PROJECT_DIR$/.idea/modules/infomovies.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infomovies_main.iml" filepath="$PROJECT_DIR$/.idea/modules/infomovies_main.iml" group="infomovies" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infomovies_test.iml" filepath="$PROJECT_DIR$/.idea/modules/infomovies_test.iml" group="infomovies" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/temanngoding.iml" filepath="$PROJECT_DIR$/.idea/modules/temanngoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/temanngoding_main.iml" filepath="$PROJECT_DIR$/.idea/modules/temanngoding_main.iml" group="temanngoding" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/temanngoding_test.iml" filepath="$PROJECT_DIR$/.idea/modules/temanngoding_test.iml" group="temanngoding" />
     </modules>
   </component>
 </project>

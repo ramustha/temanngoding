@@ -1,4 +1,4 @@
-group 'com.ramusthastudio.infomovies'
+group 'com.ramusthastudio.temanngoding'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
@@ -65,4 +65,18 @@ dependencies {
   compile('org.postgresql:postgresql:9.4.1212.jre7')
   testCompile 'com.squareup.okhttp3:mockwebserver'
   providedRuntime('org.springframework.boot:spring-boot-starter-tomcat:1.4.0.RELEASE')
+}
+group 'com.ramusthastudio.temanngoding'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
 }

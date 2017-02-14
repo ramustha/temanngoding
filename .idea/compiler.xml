@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="infomovies_main" target="1.8" />
       <module name="infomovies_test" target="1.8" />
+      <module name="temanngoding_main" target="1.8" />
+      <module name="temanngoding_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
